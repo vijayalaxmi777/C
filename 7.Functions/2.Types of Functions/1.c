@@ -5,9 +5,6 @@
 	int main()
 	{
 		add();  //fun calling
-			 
-				add(); 
-				add();
 		getch();
 		return 0;
 	}

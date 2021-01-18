@@ -23,6 +23,8 @@
 		{
 			
 			f=no*fact(no-1);
-			
+			//printf("%d\n",f);
+			return f;
+						
 		}
 	}
